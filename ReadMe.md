@@ -5,4 +5,5 @@ A mod for Hollow Knight that aims to reduce the amount of visuals in the game fo
 
 # To do list:
 -Remove grass
+
 -Remove player light
