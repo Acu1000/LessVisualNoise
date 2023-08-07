@@ -13,16 +13,7 @@ namespace LessVisualNoise
     {
         internal static LessVisualNoise Instance;
 
-        //public override List<ValueTuple<string, string>> GetPreloadNames()
-        //{
-        //    return new List<ValueTuple<string, string>>
-        //    {
-        //        new ValueTuple<string, string>("White_Palace_18", "White Palace Fly")
-        //    };
-        //}
-
-        public override string GetVersion() => "v1.0.7.0";
-
+        public override string GetVersion() => "v1.0.7.1";
 
         public LessVisualNoise() : base("LessVisualNoise")
         {
